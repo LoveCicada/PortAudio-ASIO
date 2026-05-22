@@ -1,0 +1,15 @@
+# CMake / VS 构建目录
+build/
+
+# Visual Studio 本地配置
+.vs/
+*.vcxproj.user
+*.sln.docstates
+
+# 编译产物（若出现在源码树外）
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.exe
