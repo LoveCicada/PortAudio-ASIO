@@ -68,6 +68,7 @@ PortAudio-ASIO/
 | [docs/构建指南.md](docs/构建指南.md) | 环境、CMake 选项、常见构建问题 |
 | [docs/使用说明.md](docs/使用说明.md) | 界面说明、LTC 路由、采样率 |
 | [docs/架构与模块.md](docs/架构与模块.md) | 模块划分、数据流、线程模型 |
+| [docs/音频数据处理.md](docs/音频数据处理.md) | WAV 读取、24-bit 解码、PortAudio 回调 |
 | [docs/故障排除.md](docs/故障排除.md) | 播放与构建故障排查 |
 
 ## 许可证说明
